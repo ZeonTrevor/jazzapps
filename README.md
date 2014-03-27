@@ -13,7 +13,7 @@ We explore interesting web frameworks to learn some cool web apps.
 Partners in Crime
 -----------------
 
-+Jaspreet
-+Trevor
-+Saniya
-+Avishek
++ Jaspreet
++ Trevor
++ Saniya
++ Avishek
